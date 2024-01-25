@@ -348,7 +348,7 @@ const threads = exceptionList.threads || [];
                 } else {
                   const isPrivateThread = event.threadID == event.senderID;
                   const isGroupChat = !isPrivateThread;
-                  const containsQuestion = /(\b(what|how|did|where|who)\b|@el cano|@nexus|@nero)/i.test(input);
+                  const containsQuestion = /(\b(what|how|did|where|who)\b|@kenneth|@nexus|@nero)/i.test(input);
 
                   if (!userMuteInfo) {
                     if (isPrivateThread) {
