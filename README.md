@@ -43,7 +43,7 @@ Contributions are welcome! If you'd like to contribute to Hexabot, please follow
 ## Credits
 
 - The base of this project is built upon [fca-unofficial](https://github.com/VangBanLaNhat/fca-unofficial) library by VangBanLaNhat.
-- Hexabot was developed by Jay Patrick Cano and other Hexclan members.
+- Hexabot was developed by Kenneth Gregorio Perez and other Hexclan members.
 
 ## License
 
